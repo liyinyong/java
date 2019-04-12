@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/1.8源码例子.iml" filepath="$PROJECT_DIR$/1.8源码例子.iml" />
+      <module fileurl="file://G:/编程高级/jdk1.8源码阅读/1.8源码例子/algorithm/demo.iml" filepath="G:/编程高级/jdk1.8源码阅读/1.8源码例子/algorithm/demo.iml" />
     </modules>
   </component>
 </project>

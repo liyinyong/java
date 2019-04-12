@@ -23,10 +23,12 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="1.8源码例子" />
+        <module name="demo" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="1.8源码例子" target="1.5" />
+      <module name="demo" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
